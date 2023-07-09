@@ -635,7 +635,11 @@ img{
     justify-content: space-around;
     margin: 5px auto;
 }
-
+.pizza-constructor__main{
+    width: 100%;
+    height: 100%;
+    touch-action: auto;
+}
 .pizza-constuctor__thumb {
     position: relative;
     width: 150px;
